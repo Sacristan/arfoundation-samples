@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.kyrylokuzyk.arfoundationremote": "https://kuzykkirill:gXfNFPSZ1sfx3PsiMxPz@gitlab.com/kuzykkirill/arfoundationremote.git#c85da0b0dd1678e16dcbeceda7ddf20edaca69ab",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.analytics": "3.3.5",
